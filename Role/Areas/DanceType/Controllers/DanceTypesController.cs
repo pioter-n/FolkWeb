@@ -17,6 +17,7 @@ namespace Role.Areas.DanceType.Controllers
 
         public DanceTypesController(ApplicationDbContext context)
         {
+            //
             _context = context;
         }
 
